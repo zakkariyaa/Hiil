@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Asul-Regular
+font link: https://fonts.google.com/specimen/Asul
+font author: Mariela Monsalve
+font author site: http://www.mukamonsalve.com.ar/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Cynthia Garcia
+icon designer link: /cynthia
+        
+{"bg":"transparent","icon-gradient-0":"#177775","icon-gradient-1":"#28D2BF","font":"#000000","slogan":"#141414"}
+      
