@@ -87,6 +87,13 @@ section#contact form .buttons  > * {
 
 /* ================ PHONES ================== */
 @media screen and (max-width: 564px) {
+    section#contact .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        gap: 66rem;
+    }
+    
     section#contact aside h4, section#contact aside p {
         font-size: 1rem;
         font-weight: 600;
